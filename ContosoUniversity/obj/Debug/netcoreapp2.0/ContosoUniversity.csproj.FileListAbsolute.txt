@@ -1,0 +1,15 @@
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\appsettings.Development.json
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\appsettings.json
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\bundleconfig.json
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.deps.json
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.json
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.runtimeconfig.dev.json
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.dll
+E:\S4\DotNet\GestionPFE\ContosoUniversity\bin\Debug\netcoreapp2.0\ContosoUniversity.pdb
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csprojAssemblyReference.cache
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfoInputs.cache
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.AssemblyInfo.cs
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.csproj.CoreCompileInputs.cache
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.dll
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.pdb
+E:\S4\DotNet\GestionPFE\ContosoUniversity\obj\Debug\netcoreapp2.0\ContosoUniversity.genruntimeconfig.cache
